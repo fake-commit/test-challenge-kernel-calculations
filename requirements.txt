@@ -1,0 +1,6 @@
+celery[redis]
+Django
+djangorestframework
+django-celery-results
+pandas
+psycopg2-binary
