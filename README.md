@@ -85,7 +85,7 @@ GET /api/kernel/calculations/{task_id}/
 ## Start new calculation
 
 ```http
-### POST /api/kernel/calculate/
+POST /api/kernel/calculate/
 ```
 
 ####  Request body:
